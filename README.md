@@ -48,7 +48,7 @@ font-family:宋体'>研一同学（非保研同学）</span></p>
 lang=EN-US style='font-size:14.0pt;font-family:Wingdings'>l<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
 style='font-size:14.0pt;font-family:宋体'>大四上学期一起学习完成《统计学习方法》，大四下学期一起学习完成<span
-style='color:red'>《数据挖掘？》《深度学习？》</span></span></p>
+style='color:red'>《数据挖掘》《深度学习》</span></span></p>
 
 <p class=MsoListParagraph style='margin-left:70.0pt;text-indent:-21.0pt'><span
 lang=EN-US style='font-size:14.0pt;font-family:Wingdings'>l<span
@@ -90,14 +90,14 @@ style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
 style='font-size:14.0pt;font-family:宋体'>学硕</span><span lang=EN-US
 style='font-size:14.0pt'>/</span><span style='font-size:14.0pt;font-family:
 宋体'>有读博意向的专硕：研二</span><span lang=EN-US style='font-size:14.0pt'>/</span><span
-style='font-size:14.0pt;font-family:宋体'>研三同学（学硕）每周一次学术报告，研一同学可自愿进行报告。</span></p>
+style='font-size:14.0pt;font-family:宋体'>研三同学每周一次学术报告，研一同学可自愿进行报告。</span></p>
 
 <p class=MsoListParagraph style='margin-left:70.0pt;text-indent:-21.0pt'><span
 lang=EN-US style='font-size:14.0pt;font-family:Wingdings'>l<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
 style='font-size:14.0pt;font-family:宋体'>无读博意向的专硕：研二</span><span lang=EN-US
 style='font-size:14.0pt'>/</span><span style='font-size:14.0pt;font-family:
-宋体'>研三同学（学硕）每月一次学术报告。</span></p>
+宋体'>研三同学每月一次学术报告。</span></p>
 
 <p class=MsoListParagraph style='margin-left:49.0pt;text-indent:-21.0pt'><span
 lang=EN-US style='font-size:14.0pt'>2)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

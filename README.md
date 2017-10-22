@@ -47,7 +47,7 @@ font-family:宋体'>研一同学（非保研同学）</span></p>
 <p class=MsoListParagraph style='margin-left:70.0pt;text-indent:-21.0pt'><span
 lang=EN-US style='font-size:14.0pt;font-family:Wingdings'>l<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
-style='font-size:14.0pt;font-family:宋体'>大四上学期一起学习完成《统计学习方法》，大四下学期一起学习完成<span
+style='font-size:14.0pt;font-family:宋体'>大四/研一上学期一起学习完成《统计学习方法》，大四/研一下学期一起学习完成<span
 style='color:red'>《数据挖掘》《深度学习》</span></span></p>
 
 <p class=MsoListParagraph style='margin-left:70.0pt;text-indent:-21.0pt'><span

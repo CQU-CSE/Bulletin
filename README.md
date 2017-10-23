@@ -61,7 +61,7 @@ font-family:宋体'>讲解（包含习题）。</span></p>
 lang=EN-US style='font-size:14.0pt;font-family:Wingdings'>l<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
 style='font-size:14.0pt;font-family:宋体'>完成学长们布置的作业，如</span><span lang=EN-US><a
-href="https://github.com/Coder-Yu/Assignments"><span style='font-size:14.0pt'>https://github.com/Coder-Yu/Assignments</span></a></span><span
+href="https://github.com/CQU-CSE/Assignments"><span style='font-size:14.0pt'>https://github.com/Coder-Yu/Assignments</span></a></span><span
 style='font-size:14.0pt;font-family:宋体'>。</span></p>
 
 <p class=MsoListParagraph style='margin-left:70.0pt;text-indent:-21.0pt'><span
